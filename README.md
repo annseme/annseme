@@ -1,9 +1,9 @@
 ## Hi, I am Anna
 
-🌱 I'm a junior test engineer, currently working on a project at Digiteq.
-🐍 Learning python
-📫 How to reach me: ann.semerova@gmail.com
-⚡ 
+# 🌱 I'm a junior test engineer, currently working on a project at Digiteq.
+# 🐍 Learning python
+# 📫 How to reach me: ann.semerova@gmail.com
+# ⚡ 
 
 
 
